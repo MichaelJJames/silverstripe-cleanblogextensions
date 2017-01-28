@@ -1,0 +1,7 @@
+{
+	"name": "michaeljjames/silverstripe-cleanblogextensions",
+	"description": "SiteConfig and Page extensions to work with the clean blog theme",
+	"keywords": ["silverstripe", "CMS"],
+	"license": "BSD-3-Clause",
+	"minimum-stability": "dev"
+}

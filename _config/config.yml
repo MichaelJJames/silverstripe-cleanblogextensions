@@ -1,0 +1,9 @@
+---
+Name: cleanblog
+---
+Page:
+  extensions:
+    - Page_Extension
+SiteConfig:
+  extensions:
+    - CustomSiteConfig
